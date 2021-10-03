@@ -4,7 +4,7 @@
 # In[1]:
 
 
-#league of legends 
+ 
 import pandas as pd
 import numpy as np
 import xgboost as xgb
